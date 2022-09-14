@@ -14,9 +14,11 @@ public class CRT {
 		 	
 		 5. gradeCalculator
 		 
-		 6. 
+		 6. AverageScore
 		 
 		 7. Source code is what the programmer typed in and the bytecode is compiled like the final result
+		 
+		 12. Print displays the output onto the screen where as println does the same but moves to the next line
 		 */
 
 	}
